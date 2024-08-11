@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Soumyadeep Basak
 <!--
-**Soumyadeep-Basak/Soumyadeep-Basak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Soumyadeep-Basak/Soumyadeep-Basak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Welcome to my GitHub profile! I'm a tech enthusiast passionate about learning and building innovative solutions. Here's a bit about what I do:
 
 - 🔭 I’m currently focused on developing and training machine learning and deep learning models, honing my skills in building predictive algorithms and exploring innovative approaches to AI.
@@ -9,4 +9,4 @@ Welcome to my GitHub profile! I'm a tech enthusiast passionate about learning an
      -- Open-Source ML/DL Projects
      -- Kaggle Competitions
 - 📫 How to reach me: basaksoumyadeep04@gmail.com
--->
+
