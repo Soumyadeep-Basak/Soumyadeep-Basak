@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Soumyadeep Basak</h1>
+<h1 align="center">Hi , I'm Soumyadeep Basak</h1>
 <h3 align="left">I’m a tech enthusiast focused on developing innovative machine learning and deep learning models</h3>
 
-- 🔭 I’m currently focused on **developing and training machine learning and deep learning models, honing my skills in building predictive algorithms and exploring innovative approaches to AI.**
+- I’m currently focused on **developing and training machine learning and deep learning models, honing my skills in building predictive algorithms and exploring innovative approaches to AI.**
 
-- 🌱 I’m currently expanding my knowledge in  **advanced AI and Deep Learning, exploring cutting-edge techniques and methodologies to push the boundaries of what's possible in the field.**
+- I’m currently expanding my knowledge in  **advanced AI and Deep Learning, exploring cutting-edge techniques and methodologies to push the boundaries of what's possible in the field.**
 
-- 👯 I’m looking to collaborate on **-- Open-Source ML/DL Projects -- Kaggle Competitions**
+- I’m looking to collaborate on **-- Open-Source ML/DL Projects -- Kaggle Competitions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
